@@ -1,20 +1,19 @@
 <template>
     <div>
-        i am index
+        
     </div>
 </template>
 <script>
 export default {
-    data () {
+    data() {
         return {
-            msg:'我是首页'
-        }
+            msg: "我是首页",
+        };
     },
-    methods:{
-
-    },
-    mounted(){
-
-    }
-}
+    methods: {},
+    mounted() {},
+};
 </script>
+<style>
+
+</style>
