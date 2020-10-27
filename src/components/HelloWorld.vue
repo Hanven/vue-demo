@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: '欢迎来到 vue App'
+      msg: '看我修改了这个组件'
     }
   }
 }
